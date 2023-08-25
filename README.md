@@ -7,17 +7,20 @@
     <img src="https://img.shields.io/github/forks/THUMNLab/awesome-large-graph-model?color=blue&label=Fork" alt="Forks" >
 </p>
 
-This repository contains the paper list of **Large Graph Models**. 
+This repository contains a paper list related to **Large Graph Models**. Similar to 
 
 <!-- For more details, please refer to our perspective paper: [Large Graph Models: A Perspective](https://todo)  -->
 
-We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us via pull requests at our repo.
+We will try our best to make this paper list updated. If you notice some related papers missing or have any suggestion, do not hesitate to contact us via pull requests at our repo.
 
 # Papers
 
+## Perspective
+- [arXiv 2023.0X] Large Graph Models: A Perspective [paper]
+
 ## Model
 
-#### LLMs for Graphs
+#### LLMs as Graph Models
 
 - [arXiv 2023.05] Can Language Models Solve Graph Problems in Natural Language? [[paper]](https://arxiv.org/pdf/2305.10037) [[code]](https://github.com/Arthur-Heng/NLGraph)
 
@@ -36,7 +39,16 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/pdf/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
 - [arXiv 2023.08] Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis [[paper]](https://arxiv.org/pdf/2308.11224) [[code]](https://github.com/Ayame1006/LLMtoGraph)
 
+#### Graph Prompts
 
+#### Graph Parameter-efficient Fine-tuning
+
+## Applications
+
+#### Knowledge Graph
+#### Molecules
+
+## Graphs for LLMs
 <!-- # Cite
 
 Please consider citing our [survey paper](https://todo) if you find this repository helpful:
