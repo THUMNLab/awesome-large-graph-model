@@ -42,6 +42,10 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### Graph Parameter-efficient Fine-tuning
 
+- [arXiv 2023.04] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/pdf/2304.09595)
+- [arXiv 2023.05] G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks [[paper]](https://arxiv.org/pdf/2305.10329)
+- [arXiv 2023.08] Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks [[paper]](https://arxiv.org/pdf/2308.06960)
+
 ## Applications
 
 #### Knowledge Graph
