@@ -29,7 +29,8 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.08] Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis [[paper]](https://arxiv.org/pdf/2308.11224) [[code]](https://github.com/Ayame1006/LLMtoGraph)
 
 #### LLM for GNNs
-- [arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2305.19523) [[code]](https://github.com/XiaoxinHe/TAPE) 
+- [arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2305.19523) [[code]](https://github.com/XiaoxinHe/TAPE)
+- [arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper]](https://arxiv.org/pdf/2308.02565) [[code]](https://github.com/vermouthdky/SimTeG)
 
 #### Graph Prompts
 - [KDD 2022] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539249)
