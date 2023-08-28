@@ -38,6 +38,9 @@ We will try our best to make this paper list updated. If you notice some related
 
 
 #### Graph Prompts
+- [KDD 2022] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539249)
+- [WWW 2023] GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2302.08043) [[code]](https://github.com/Starlien95/GraphPrompt)
+- [KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2307.01504) [[code]](https://github.com/sheldonresearch/ProG)
 
 
 #### Graph Parameter-efficient Fine-tuning
@@ -55,13 +58,21 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.05] StructGPT A General Framework for Large Language Model to Reason over Structured Data [[paper]](https://arxiv.org/pdf/2305.09645) [[code]](https://github.com/RUCAIBox/StructGPT)
 
 - [arXiv 2023.06] Unifying Large Language Models and Knowledge Graphs: A Roadmap [[paper]](https://arxiv.org/pdf/2306.08302) 
+
 #### Molecules
 
 - [arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [[paper]](https://arxiv.org/pdf/2307.07443) [[code]](https://github.com/ChnQ/LLM4Mol)
+- [arXiv 2023.08] GIT-Mol A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[paper]](https://arxiv.org/pdf/2308.069)
 
 #### Neural Architecture Search
 
 - [arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/pdf/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
+
+#### Miscellaneous
+
+- [arXiv 2023.05] Graph Meets LLM A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper]](https://arxiv.org/pdf/2305.14449)
+- [arXiv 2023.05] ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper]](https://arxiv.org/pdf/2306.03763)
+- [arXiv 2023.08] FoodGPT A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt [[paper]](https://arxiv.org/pdf/2308.10173)
 
 ## Graphs for LLMs
 #### Graph of Thoughts
@@ -73,10 +84,9 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [[paper]](https://arxiv.org/pdf/2308.09687)  [[code]](https://github.com/spcl/graph-of-thoughts)
 - [arXiv 2023.08] MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [[paper]](https://arxiv.org/pdf/2308.09729)
 
-## Miscellaneous
-
-- [arXiv 2023.05] Graph Meets LLM A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper]](https://arxiv.org/pdf/2305.14449)
-  
+#### Graph as Tools
+- [arXiv 2023.04] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [[paper]](https://arxiv.org/pdf/2304.11116)  [[code]](https://github.com/jwzhanggy/Graph_Toolformer)
+- [arXiv 2023.05] StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper]](https://arxiv.org/pdf/2305.09645)  [[code]](https://github.com/RUCAIBox/StructGPT)
 <!-- # Cite
 
 Please consider citing our [survey paper](https://todo) if you find this repository helpful:
