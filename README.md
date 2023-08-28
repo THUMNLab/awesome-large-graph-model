@@ -64,6 +64,14 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/pdf/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
 
 ## Graphs for LLMs
+#### Graph of Thoughts
+- [arXiv 2023.05] Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Model [[paper]](https://arxiv.org/pdf/2305.16582)
+- [arXiv 2023.06] Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph [[paper]](https://arxiv.org/pdf/2307.07697)
+- [arXiv 2023.08] Thinking Like an Expert: Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals [[paper]](https://arxiv.org/pdf/2308.06207)
+- [arXiv 2023.08] Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought [[paper]](https://arxiv.org/pdf/2308.08614)
+- [arXiv 2023.08] Enhancing Reasoning Capabilities of Large Language Models: A Graph-Based Verification Approach [[paper]](https://arxiv.org/pdf/2308.09267)
+- [arXiv 2023.08] Graph of Thoughts: Solving Elaborate Problems with Large Language Models [[paper]](https://arxiv.org/pdf/2308.09687)  [[code]](https://github.com/spcl/graph-of-thoughts)
+- [arXiv 2023.08] MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models [[paper]](https://arxiv.org/pdf/2308.09729)
 
 ## Miscellaneous
 
