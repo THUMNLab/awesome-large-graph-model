@@ -59,13 +59,13 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### Miscellaneous
 - [arXiv 2023.05] Graph Meets LLM A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper]](https://arxiv.org/pdf/2305.14449)
-- [arXiv 2023.05] ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper]](https://arxiv.org/pdf/2306.03763)
+- [arXiv 2023.06] ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper]](https://arxiv.org/pdf/2306.03763)
 - [arXiv 2023.08] FoodGPT A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt [[paper]](https://arxiv.org/pdf/2308.10173)
 
 ## Graphs for LLMs
 #### Graph of Thoughts
 - [arXiv 2023.05] Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Model [[paper]](https://arxiv.org/pdf/2305.16582)
-- [arXiv 2023.06] Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph [[paper]](https://arxiv.org/pdf/2307.07697)
+- [arXiv 2023.07] Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph [[paper]](https://arxiv.org/pdf/2307.07697)
 - [arXiv 2023.08] Thinking Like an Expert: Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals [[paper]](https://arxiv.org/pdf/2308.06207)
 - [arXiv 2023.08] Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought [[paper]](https://arxiv.org/pdf/2308.08614)
 - [arXiv 2023.08] Enhancing Reasoning Capabilities of Large Language Models: A Graph-Based Verification Approach [[paper]](https://arxiv.org/pdf/2308.09267)
@@ -78,12 +78,12 @@ We will try our best to make this paper list updated. If you notice some related
 
 ## Cite
 
-Please consider citing our [perspective paper][(https://arxiv.org/pdf/2308.XXXXX) if you find this repository helpful:
+Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.XXXXX) if you find this repository helpful:
 ```
 @article{zhang2023large,
-  title={Large Graph Models: A Perspective },
+  title={Large Graph Models: A Perspective},
   author={Zhang, Ziwei and Li, Haoyang and Zhang, Zeyang and Qin, Yijian and Wang, Xin and Zhu, Wenwu},
   journal={arXiv preprint arXiv:2308.XXXXX},
-  year={2022}
+  year={2023}
 }
 ``` 
