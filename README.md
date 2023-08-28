@@ -9,14 +9,15 @@
 
 This repository contains a paper list related to **Large Graph Models**. 
 
-<!-- For more details, please refer to our perspective paper: [Large Graph Models: A Perspective](https://todo)  -->
+For more details, please refer to our perspective paper: [Large Graph Models: A Perspective](https://arxiv.org/pdf/2308.XXXXX)
 
 We will try our best to make this paper list updated. If you notice some related papers missing or have any suggestion, do not hesitate to contact us via pull requests at our repo.
 
 # Papers
 
-## Perspective
-- [arXiv 2023.0X] Large Graph Models: A Perspective [paper]
+## Perspective and Survey
+- [arXiv 2023.08] Large Graph Models: A Perspective [[paper]](https://arxiv.org/pdf/2308.XXXXX)
+- [arXiv 2023.03] A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges [[paper]](https://arxiv.org/pdf/2303.07275.pdf)
 
 ## Model
 
@@ -33,7 +34,12 @@ We will try our best to make this paper list updated. If you notice some related
 #### Graph Prompts
 - [KDD 2022] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539249)
 - [WWW 2023] GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2302.08043) [[code]](https://github.com/Starlien95/GraphPrompt)
+- [WWW 2023] Structure Pre-training and Prompt Tuning for Knowledge Graph Transfer [[paper]](https://arxiv.org/pdf/2303.03922.pdf) [[code]](https://github.com/zjukg/KGTransformer)
 - [KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2307.01504) [[code]](https://github.com/sheldonresearch/ProG)
+- [CVPR 2023] Deep Graph Reprogramming [[paper]](https://arxiv.org/pdf/2304.14593.pdf)
+- [arXiv 2022.09] Universal Prompt Tuning for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2209.15240.pdf) 
+- [arXiv 2023.02] SGL-PT: A Strong Graph Learner with Graph Prompt Tuning [[paper]](https://arxiv.org/pdf/2302.12449.pdf)
+- [arXiv 2023.05] PRODIGY: Enabling In-context Learning Over Graphs [[paper]](https://arxiv.org/pdf/2305.12600.pdf) [[code]](https://github.com/snap-stanford/prodigy)
 
 #### Graph Parameter-efficient Fine-tuning
 - [arXiv 2023.04] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/pdf/2304.09595)
@@ -70,9 +76,15 @@ We will try our best to make this paper list updated. If you notice some related
 #### Graph as Tools
 - [arXiv 2023.04] Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT [[paper]](https://arxiv.org/pdf/2304.11116)  [[code]](https://github.com/jwzhanggy/Graph_Toolformer)
 - [arXiv 2023.05] StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper]](https://arxiv.org/pdf/2305.09645)  [[code]](https://github.com/RUCAIBox/StructGPT)
-<!-- # Cite
 
-Please consider citing our [survey paper](https://todo) if you find this repository helpful:
+## Cite
+
+Please consider citing our [perspective paper][(https://arxiv.org/pdf/2308.XXXXX) if you find this repository helpful:
 ```
-
-``` -->
+@article{zhang2023large,
+  title={Large Graph Models: A Perspective },
+  author={Zhang, Ziwei and Li, Haoyang and Zhang, Zeyang and Qin, Yijian and Wang, Xin and Zhu, Wenwu},
+  journal={arXiv preprint arXiv:2308.XXXXX},
+  year={2022}
+}
+``` 
