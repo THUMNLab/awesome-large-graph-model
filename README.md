@@ -7,14 +7,14 @@
     <img src="https://img.shields.io/github/forks/THUMNLab/awesome-large-graph-model?color=blue&label=Fork" alt="Forks" >
 </p>
 
-This repository contains a paper list related to **Large Graph Models**. Similar to Large Language Models (LLMs) for natural languages, we believe large graph models will revolutionaize graph machine learning with exciting opportunities for both researchers and practioners! For more details, please refer to our perspective paper: [Large Graph Models: A Perspective](https://arxiv.org/pdf/2308.XXXXX)
+This repository contains a paper list related to **Large Graph Models**. Similar to Large Language Models (LLMs) for natural languages, we believe large graph models will revolutionaize graph machine learning with exciting opportunities for both researchers and practioners! For more details, please refer to our perspective paper: [Large Graph Models: A Perspective](https://arxiv.org/pdf/2308.14522)
 
 We will try our best to make this paper list updated. If you notice some related papers missing or have any suggestion, do not hesitate to contact us via pull requests at our repo.
 
 # Papers
 
 ## Perspective and Survey
-- [arXiv 2023.08] Large Graph Models: A Perspective [[paper]](https://arxiv.org/pdf/2308.XXXXX)
+- [arXiv 2023.08] Large Graph Models: A Perspective [[paper]](https://arxiv.org/pdf/2308.14522)
 - [arXiv 2023.03] A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges [[paper]](https://arxiv.org/pdf/2303.07275.pdf)
 
 ## Model
@@ -78,12 +78,12 @@ We will try our best to make this paper list updated. If you notice some related
 
 ## Cite
 
-Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.XXXXX) if you find this repository helpful:
+Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522) if you find this repository helpful:
 ```
 @article{zhang2023large,
   title={Large Graph Models: A Perspective},
   author={Zhang, Ziwei and Li, Haoyang and Zhang, Zeyang and Qin, Yijian and Wang, Xin and Zhu, Wenwu},
-  journal={arXiv preprint arXiv:2308.XXXXX},
+  journal={arXiv preprint arXiv:2308.14522},
   year={2023}
 }
 ``` 
