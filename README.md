@@ -39,6 +39,8 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2022.09] Universal Prompt Tuning for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2209.15240.pdf) 
 - [arXiv 2023.02] SGL-PT: A Strong Graph Learner with Graph Prompt Tuning [[paper]](https://arxiv.org/pdf/2302.12449.pdf)
 - [arXiv 2023.05] PRODIGY: Enabling In-context Learning Over Graphs [[paper]](https://arxiv.org/pdf/2305.12600.pdf) [[code]](https://github.com/snap-stanford/prodigy)
+- [arXiv 2023.09] Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2309.02848.pdf)
+- [arXiv 2023.09] Deep Prompt Tuning for Graph Transformers [[paper]](https://arxiv.org/pdf/2309.10131.pdf)
 
 #### Graph Parameter-efficient Fine-tuning
 - [arXiv 2023.04] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/pdf/2304.09595)
@@ -53,6 +55,7 @@ We will try our best to make this paper list updated. If you notice some related
 #### Molecules
 - [arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [[paper]](https://arxiv.org/pdf/2307.07443) [[code]](https://github.com/ChnQ/LLM4Mol)
 - [arXiv 2023.08] GIT-Mol A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[paper]](https://arxiv.org/pdf/2308.069)
+- [arXiv 2023.09] DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs [[paper]](https://arxiv.org/pdf/2309.03907) [[code]](https://github.com/UCSD-AI4H/drugchat)
 
 #### Neural Architecture Search
 - [arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/pdf/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
@@ -61,6 +64,7 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.05] Graph Meets LLM A Novel Approach to Collaborative Filtering for Robust Conversational Understanding [[paper]](https://arxiv.org/pdf/2305.14449)
 - [arXiv 2023.06] ChatGPT Informed Graph Neural Network for Stock Movement Prediction [[paper]](https://arxiv.org/pdf/2306.03763)
 - [arXiv 2023.08] FoodGPT A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt [[paper]](https://arxiv.org/pdf/2308.10173)
+- [arXiv 2023.09] VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model [[paper]](https://arxiv.org/pdf/2309.08474)
 
 ## Graphs for LLMs
 #### Graph of Thoughts
