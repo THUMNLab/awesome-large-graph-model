@@ -22,6 +22,8 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### LLMs as Graph Models
 - [NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [[paper]](https://arxiv.org/pdf/2305.10037) [[code]](https://github.com/Arthur-Heng/NLGraph)
+- [ICML workshop 2023] Pretrained Language Models to Solve Graph Tasks in Natural Language [[paper]](https://openreview.net/forum?id=LfCzmmnH4L)
+- [arXiv 2023.10] Empower Text-Attributed Graphs Learning with Large Language Models (LLMs) [[paper]](https://arxiv.org/pdf/2310.09872)
 - [arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper]](https://arxiv.org/pdf/2310.05845) [[code]](https://github.com/mistyreed63849/Graph-LLM)
 - [arXiv 2023.10] Beyond Text: A Deep Dive into Large Language Models’ Ability on Understanding Graph Data [[paper]](https://arxiv.org/pdf/2310.04944)
 - [arXiv 2023.10] Talk like a Graph: Encoding Graphs for Large Language Models [[paper]](https://arxiv.org/pdf/2310.04560)
@@ -35,7 +37,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 
 #### LLM for GNNs
-- [arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper]](https://arxiv.org/pdf/2310.04668)
+- [arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper]](https://arxiv.org/pdf/2310.04668) [[code]](https://github.com/CurryTang/LLMGNN)
 - [arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper]](https://arxiv.org/pdf/2308.02565) [[code]](https://github.com/vermouthdky/SimTeG)
 - [arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2305.19523) [[code]](https://github.com/XiaoxinHe/TAPE)
 
