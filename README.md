@@ -22,12 +22,12 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### LLMs as Graph Models
 - [NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [[paper]](https://arxiv.org/pdf/2305.10037) [[code]](https://github.com/Arthur-Heng/NLGraph)
-- [arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper]](https://arxiv.org/pdf/2310.05845)
+- [arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper]](https://arxiv.org/pdf/2310.05845) [[code]](https://github.com/mistyreed63849/Graph-LLM)
 - [arXiv 2023.10] Beyond Text: A Deep Dive into Large Language Models’ Ability on Understanding Graph Data [[paper]](https://arxiv.org/pdf/2310.04944)
 - [arXiv 2023.10] Talk like a Graph: Encoding Graphs for Large Language Models [[paper]](https://arxiv.org/pdf/2310.04560)
 - [arXiv 2023.10] GraphText Graph Reasoning in Text Space [[paper]](https://arxiv.org/pdf/2310.01089)
 - [arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [[paper]](https://arxiv.org/pdf/2310.00149) [[code]](https://github.com/LechengKong/OneForAll)
-- [arXiv 2023.09] Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper]](https://arxiv.org/pdf/2309.16595)
+- [arXiv 2023.09] Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper]](https://arxiv.org/pdf/2309.16595) [[code]](https://github.com/TRAIS-Lab/LLM-Structured-Data)
 - [arXiv 2023.08] Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis [[paper]](https://arxiv.org/pdf/2308.11224) [[code]](https://github.com/Ayame1006/LLMtoGraph)
 - [arXiv 2023.08] Natural Language is All a Graph Needs [[paper]](https://arxiv.org/pdf/2308.07134) 
 - [arXiv 2023.07] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [[paper]](https://arxiv.org/pdf/2307.03393) [[code]](https://github.com/CurryTang/Graph-LLM)
@@ -35,7 +35,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 
 #### LLM for GNNs
-- [arXiv 2023.10] _Label-free Node Classification on Graphs with Large Language Models (LLMS)arXiv:2310.04668
+- [arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper]](https://arxiv.org/pdf/2310.04668)
 - [arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper]](https://arxiv.org/pdf/2308.02565) [[code]](https://github.com/vermouthdky/SimTeG)
 - [arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2305.19523) [[code]](https://github.com/XiaoxinHe/TAPE)
 
