@@ -70,6 +70,7 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### Neural Architecture Search
 - [arXiv 2023.10] Graph Neural Architecture Search with GPT-4 [[paper]](https://arxiv.org/pdf/2310.01436)
+- [arXiv 2023.09] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper]](https://arxiv.org/pdf/2309.04565)
 - [arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/pdf/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
 
 #### Miscellaneous
