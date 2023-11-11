@@ -43,12 +43,16 @@ We will try our best to make this paper list updated. If you notice some related
 
 #### Graph Prompts
 - [NeurIPS 2023] PRODIGY: Enabling In-context Learning Over Graphs [[paper]](https://arxiv.org/pdf/2305.12600.pdf) [[code]](https://github.com/snap-stanford/prodigy)
-- [NeurIPS 2023] Universal Prompt Tuning for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2209.15240.pdf) 
+- [NeurIPS 2023] Universal Prompt Tuning for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2209.15240.pdf)
+- [MM 2023] Chain of Propagation Prompting for Node Classification [[paper]](https://dl.acm.org/doi/10.1145/3581783.3612431)
 - [CVPR 2023] Deep Graph Reprogramming [[paper]](https://arxiv.org/pdf/2304.14593.pdf)
 - [KDD 2023] All in One: Multi-Task Prompting for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2307.01504) [[code]](https://github.com/sheldonresearch/ProG)
 - [WWW 2023] GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2302.08043) [[code]](https://github.com/Starlien95/GraphPrompt)
 - [WWW 2023] Structure Pre-training and Prompt Tuning for Knowledge Graph Transfer [[paper]](https://arxiv.org/pdf/2303.03922.pdf) [[code]](https://github.com/zjukg/KGTransformer)
 - [KDD 2022] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539249)
+- [arXiv 2023.10] Enhancing Graph Neural Networks with Structure-Based Prompt [[paper]](https://arxiv.org/pdf/2310.17394.pdf)
+- [arXiv 2023.10] HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks [[paper]](https://arxiv.org/pdf/2310.15318.pdf)
+- [arXiv 2023.10] ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt [[paper]](https://arxiv.org/pdf/2310.14845.pdf)
 - [arXiv 2023.10] Prompt Tuning for Multi-View Graph Contrastive Learning [[paper]](https://arxiv.org/pdf/2310.10362.pdf)
 - [arXiv 2023.09] Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2309.02848.pdf)
 - [arXiv 2023.09] Deep Prompt Tuning for Graph Transformers [[paper]](https://arxiv.org/pdf/2309.10131.pdf)
