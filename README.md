@@ -35,7 +35,6 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.07] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [[paper]](https://arxiv.org/pdf/2307.03393) [[code]](https://github.com/CurryTang/Graph-LLM)
 - [arXiv 2023.05] GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking [[paper]](https://arxiv.org/pdf/2305.15066) 
 
-
 #### LLM for GNNs
 - [arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper]](https://arxiv.org/pdf/2310.04668) [[code]](https://github.com/CurryTang/LLMGNN)
 - [arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper]](https://arxiv.org/pdf/2308.02565) [[code]](https://github.com/vermouthdky/SimTeG)
@@ -70,6 +69,7 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.06] Unifying Large Language Models and Knowledge Graphs: A Roadmap [[paper]](https://arxiv.org/pdf/2306.08302)
 
 #### Molecules
+- [NeurIPS 2023] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper]](https://openreview.net/pdf?id=Tt6DrRCgJV) [[code]](https://github.com/zhao-ht/GIMLET)
 - [arXiv 2023.09] DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs [[paper]](https://arxiv.org/pdf/2309.03907) [[code]](https://github.com/UCSD-AI4H/drugchat)
 - [arXiv 2023.08] GIT-Mol A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[paper]](https://arxiv.org/pdf/2308.069)
 - [arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [[paper]](https://arxiv.org/pdf/2307.07443) [[code]](https://github.com/ChnQ/LLM4Mol)
