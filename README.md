@@ -30,25 +30,30 @@ We will try our best to make this paper list updated. If you notice some related
 ## Model
 ### LLMs as Graph Models
 #### 2024
+- [arXiv 2024.01] Efficient Tuning and Inference for Large Language Models on Textual Graphs [[paper]](https://arxiv.org/pdf/2401.15569.pdf)
+- [arXiv 2024.01] Scalable Link Prediction on Large-Scale Heterogeneous Graphs with Large Language Models [[paper]](https://arxiv.org/pdf/2401.13227.pdf)
+- [arXiv 2024.01] ChatGraph: Chat with Your Graphs [[paper]](https://arxiv.org/pdf/2401.12672)
 #### 2023
 - [NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [[paper]](https://arxiv.org/pdf/2305.10037) [[code]](https://github.com/Arthur-Heng/NLGraph)
 - [ICML workshop 2023] Pretrained Language Models to Solve Graph Tasks in Natural Language [[paper]](https://openreview.net/forum?id=LfCzmmnH4L)
+- [arXiv 2023.12] Efficient Large Language Models Fine-Tuning On Graphs [[paper]](https://arxiv.org/pdf/2312.04737)
+- [arXiv 2023.11] Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2311.14324)
+- [arXiv 2023.10] LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? [[paper]](https://arxiv.org/pdf/2310.17110)
+- [arXiv 2023.10] Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2310.18152)
 - [arXiv 2023.10] Empower Text-Attributed Graphs Learning with Large Language Models (LLMs) [[paper]](https://arxiv.org/pdf/2310.09872)
 - [arXiv 2023.10] GraphLLM: Boosting Graph Reasoning Ability of Large Language Model [[paper]](https://arxiv.org/pdf/2310.05845) [[code]](https://github.com/mistyreed63849/Graph-LLM)
 - [arXiv 2023.10] Beyond Text: A Deep Dive into Large Language Models’ Ability on Understanding Graph Data [[paper]](https://arxiv.org/pdf/2310.04944)
+- [arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper]](https://arxiv.org/pdf/2310.04668) [[code]](https://github.com/CurryTang/LLMGNN)
 - [arXiv 2023.10] Talk like a Graph: Encoding Graphs for Large Language Models [[paper]](https://arxiv.org/pdf/2310.04560)
 - [arXiv 2023.10] GraphText Graph Reasoning in Text Space [[paper]](https://arxiv.org/pdf/2310.01089)
 - [arXiv 2023.10] One for All Towards Training One Graph Model for All Classification Tasks [[paper]](https://arxiv.org/pdf/2310.00149) [[code]](https://github.com/LechengKong/OneForAll)
 - [arXiv 2023.09] Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why [[paper]](https://arxiv.org/pdf/2309.16595) [[code]](https://github.com/TRAIS-Lab/LLM-Structured-Data)
 - [arXiv 2023.08] Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis [[paper]](https://arxiv.org/pdf/2308.11224) [[code]](https://github.com/Ayame1006/LLMtoGraph)
-- [arXiv 2023.08] Natural Language is All a Graph Needs [[paper]](https://arxiv.org/pdf/2308.07134) 
-- [arXiv 2023.07] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [[paper]](https://arxiv.org/pdf/2307.03393) [[code]](https://github.com/CurryTang/Graph-LLM)
-- [arXiv 2023.05] GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking [[paper]](https://arxiv.org/pdf/2305.15066) 
-
-#### LLM for GNNs
-- [arXiv 2023.10] Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper]](https://arxiv.org/pdf/2310.04668) [[code]](https://github.com/CurryTang/LLMGNN)
+- [arXiv 2023.08] Natural Language is All a Graph Needs [[paper]](https://arxiv.org/pdf/2308.07134)
 - [arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper]](https://arxiv.org/pdf/2308.02565) [[code]](https://github.com/vermouthdky/SimTeG)
+- [arXiv 2023.07] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [[paper]](https://arxiv.org/pdf/2307.03393) [[code]](https://github.com/CurryTang/Graph-LLM)
 - [arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2305.19523) [[code]](https://github.com/XiaoxinHe/TAPE)
+- [arXiv 2023.05] GPT4Graph: Can Large Language Models Understand Graph Structured Data ? An Empirical Evaluation and Benchmarking [[paper]](https://arxiv.org/pdf/2305.15066) 
 
 ### Graph Prompts
 #### 2024
@@ -77,9 +82,9 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.02] SGL-PT: A Strong Graph Learner with Graph Prompt Tuning [[paper]](https://arxiv.org/pdf/2302.12449.pdf)
 
 #### Graph Parameter-efficient Fine-tuning
+- [AAAI 2024] G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks [[paper]](https://arxiv.org/pdf/2305.10329)
+- [AAAI 2024] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/pdf/2304.09595)
 - [arXiv 2023.08] Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks [[paper]](https://arxiv.org/pdf/2308.06960)
-- [arXiv 2023.05] G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks [[paper]](https://arxiv.org/pdf/2305.10329)
-- [arXiv 2023.04] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/pdf/2304.09595)
 
 ## Applications
 #### Knowledge Graph
@@ -93,6 +98,7 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [[paper]](https://arxiv.org/pdf/2307.07443) [[code]](https://github.com/ChnQ/LLM4Mol)
 
 #### Neural Architecture Search
+- [arXiv 2023.12] Heterogeneous Graph Neural Architecture Search with GPT-4 [[paper]](https://arxiv.org/pdf/2312.0868)
 - [arXiv 2023.10] Graph Neural Architecture Search with GPT-4 [[paper]](https://arxiv.org/pdf/2310.01436)
 - [arXiv 2023.09] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper]](https://arxiv.org/pdf/2309.04565)
 - [arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/pdf/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
