@@ -14,13 +14,23 @@ We will try our best to make this paper list updated. If you notice some related
 # Papers
 
 ## Perspective and Survey
-- [arXiv 2023.08] Large Graph Models: A Perspective [[paper]](https://arxiv.org/pdf/2308.14522)
+
+#### Overall
+- [NeurIPS 2023 GLFrontiers Workshop] Graph Meets LLMs: Towards Large Graph Models [[paper]](https://openreview.net/attachment?id=cVIRwcJ3Cb&name=pdf)
+- [arXiv 2023.12] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/pdf/2312.02783)
+- [arXiv 2023.11] A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper]](https://arxiv.org/pdf/2311.12399)
+- [arXiv 2023.10] Towards Graph Foundation Models: A Survey and Beyond [paper]](https://arxiv.org/pdf/2310.11829)
 - [arXiv 2023.10] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/pdf/2310.05499)
+
+#### Prompt
+- [arXiv 2024.02] Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting [[paper]](https://arxiv.org/pdf/2402.0144)
+- [arXiv 2023.11] Graph Prompt Learning: A Comprehensive Survey and Beyond [[paper]](https://arxiv.org/pdf/2311.16534)
 - [arXiv 2023.03] A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges [[paper]](https://arxiv.org/pdf/2303.07275.pdf)
 
 ## Model
-
-#### LLMs as Graph Models
+### LLMs as Graph Models
+#### 2024
+#### 2023
 - [NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [[paper]](https://arxiv.org/pdf/2305.10037) [[code]](https://github.com/Arthur-Heng/NLGraph)
 - [ICML workshop 2023] Pretrained Language Models to Solve Graph Tasks in Natural Language [[paper]](https://openreview.net/forum?id=LfCzmmnH4L)
 - [arXiv 2023.10] Empower Text-Attributed Graphs Learning with Large Language Models (LLMs) [[paper]](https://arxiv.org/pdf/2310.09872)
@@ -40,7 +50,14 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper]](https://arxiv.org/pdf/2308.02565) [[code]](https://github.com/vermouthdky/SimTeG)
 - [arXiv 2023.05] Explanations as Features LLM-Based Features for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2305.19523) [[code]](https://github.com/XiaoxinHe/TAPE)
 
-#### Graph Prompts
+### Graph Prompts
+#### 2024
+- [WWW 2024] MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs [[paper]](https://arxiv.org/abs/2312.03731)
+- [AAAI 2024] HGPROMPT: Bridging Homogeneous and Heterogeneous Graphs for Few-shot Prompt Learning [[paper]](https://arxiv.org/pdf/2312.01878.pdf)
+- [AAAI 2024] Measuring task similarity and its implication in fine-tuning graph neural networks [[paper]](https://jiangxjames.github.io/publications/task-sim-aaai24.pdf) [[code]](https://github.com/zjunet/Bridge-Tune)
+- [KBS 2024] GPL-GNN: Graph prompt learning for graph neural network [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705124000261) [[code]](https://github.com/chenzihaoww/GPL-GNN)
+- [IPM 2024] G-Prompt: Graphon-based Prompt Tuning for graph classification [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S030645732300376X)
+#### 2023
 - [NeurIPS 2023] PRODIGY: Enabling In-context Learning Over Graphs [[paper]](https://arxiv.org/pdf/2305.12600.pdf) [[code]](https://github.com/snap-stanford/prodigy)
 - [NeurIPS 2023] Universal Prompt Tuning for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2209.15240.pdf)
 - [MM 2023] Chain of Propagation Prompting for Node Classification [[paper]](https://dl.acm.org/doi/10.1145/3581783.3612431)
@@ -49,6 +66,7 @@ We will try our best to make this paper list updated. If you notice some related
 - [WWW 2023] GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [[paper]](https://arxiv.org/pdf/2302.08043) [[code]](https://github.com/Starlien95/GraphPrompt)
 - [WWW 2023] Structure Pre-training and Prompt Tuning for Knowledge Graph Transfer [[paper]](https://arxiv.org/pdf/2303.03922.pdf) [[code]](https://github.com/zjukg/KGTransformer)
 - [KDD 2022] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539249)
+- [arXiv 2023.11] Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs [[paper]](https://arxiv.org/pdf/2311.15317.pdf) [[code]](https://github.com/gmcmt/graph_prompt_extension)
 - [arXiv 2023.10] Enhancing Graph Neural Networks with Structure-Based Prompt [[paper]](https://arxiv.org/pdf/2310.17394.pdf)
 - [arXiv 2023.10] HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks [[paper]](https://arxiv.org/pdf/2310.15318.pdf)
 - [arXiv 2023.10] ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt [[paper]](https://arxiv.org/pdf/2310.14845.pdf)
