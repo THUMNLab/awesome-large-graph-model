@@ -20,7 +20,6 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2024.02] Future Directions in Foundations of Graph Machine Learning [[paper]](https://arxiv.org/pdf/2402.02287)
 - [arXiv 2024.02] Graph Foundation Models [[paper]](https://arxiv.org/pdf/2402.0221)
 - [arXiv 2023.12] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/pdf/2312.02783)
-- [arXiv 2023.12] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/pdf/2312.02783)
 - [arXiv 2023.11] A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper]](https://arxiv.org/pdf/2311.12399)
 - [arXiv 2023.10] Towards Graph Foundation Models: A Survey and Beyond [paper]](https://arxiv.org/pdf/2310.11829)
 - [arXiv 2023.10] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/pdf/2310.05499)
@@ -33,11 +32,15 @@ We will try our best to make this paper list updated. If you notice some related
 ## Model
 ### LLMs as Graph Models
 #### 2024
+- [arXiv 2024.02] Rendering Graphs for Graph Reasoning in Multimodal Large Language Models [[paper]](https://arxiv.org/pdf/2402.02130.pdf)
+- [arXiv 2024.02] Exploring the Limitations of Graph Reasoning in Large Language Models [[paper]](https://arxiv.org/pdf/2402.01805.pdf)
 - [arXiv 2024.01] Efficient Tuning and Inference for Large Language Models on Textual Graphs [[paper]](https://arxiv.org/pdf/2401.15569.pdf)
 - [arXiv 2024.01] Scalable Link Prediction on Large-Scale Heterogeneous Graphs with Large Language Models [[paper]](https://arxiv.org/pdf/2401.13227.pdf)
 - [arXiv 2024.01] ChatGraph: Chat with Your Graphs [[paper]](https://arxiv.org/pdf/2401.12672)
 #### 2023
 - [NeurIPS 2023] Can Language Models Solve Graph Problems in Natural Language? [[paper]](https://arxiv.org/pdf/2305.10037) [[code]](https://github.com/Arthur-Heng/NLGraph)
+- [NeurIPS 2023] WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding [[paper]](https://www.cs.emory.edu/~jyang71/files/walklm.pdf)
+- [EMNLP 2023] Unleashing the Power of Language Models in Text-Attributed Graph [[paper]](https://aclanthology.org/2023.findings-emnlp.565.pdf)
 - [ICML workshop 2023] Pretrained Language Models to Solve Graph Tasks in Natural Language [[paper]](https://openreview.net/forum?id=LfCzmmnH4L)
 - [arXiv 2023.12] Efficient Large Language Models Fine-Tuning On Graphs [[paper]](https://arxiv.org/pdf/2312.04737)
 - [arXiv 2023.11] Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs [[paper]](https://arxiv.org/pdf/2311.14324)
