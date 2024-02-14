@@ -21,7 +21,7 @@ We will try our best to make this paper list updated. If you notice some related
 - [arXiv 2024.02] Graph Foundation Models [[paper]](https://arxiv.org/pdf/2402.0221)
 - [arXiv 2023.12] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/pdf/2312.02783)
 - [arXiv 2023.11] A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper]](https://arxiv.org/pdf/2311.12399)
-- [arXiv 2023.10] Towards Graph Foundation Models: A Survey and Beyond [paper]](https://arxiv.org/pdf/2310.11829)
+- [arXiv 2023.10] Towards Graph Foundation Models: A Survey and Beyond [[paper]](https://arxiv.org/pdf/2310.11829)
 - [arXiv 2023.10] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/pdf/2310.05499)
 
 #### Prompt
@@ -136,9 +136,9 @@ We will try our best to make this paper list updated. If you notice some related
 Please consider citing our [perspective paper](https://arxiv.org/pdf/2308.14522) if you find this repository helpful:
 ```
 @article{zhang2023large,
-  title={Large Graph Models: A Perspective},
+  title={Graph Meets LLMs: Towards Large Graph Models},
   author={Zhang, Ziwei and Li, Haoyang and Zhang, Zeyang and Qin, Yijian and Wang, Xin and Zhu, Wenwu},
-  journal={arXiv preprint arXiv:2308.14522},
+  journal={NeurIPS 2023 GLFrontiers Workshop},
   year={2023}
 }
 ``` 
