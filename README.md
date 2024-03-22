@@ -18,7 +18,7 @@ We will try our best to make this paper list updated. If you notice some related
 #### Overall
 - [NeurIPS 2023 GLFrontiers Workshop] Graph Meets LLMs: Towards Large Graph Models [[paper]](https://openreview.net/attachment?id=cVIRwcJ3Cb&name=pdf)
 - [arXiv 2024.02] Future Directions in Foundations of Graph Machine Learning [[paper]](https://arxiv.org/pdf/2402.02287)
-- [arXiv 2024.02] Graph Foundation Models [[paper]](https://arxiv.org/pdf/2402.0221)
+- [arXiv 2024.02] Graph Foundation Models [[paper]](https://arxiv.org/pdf/2402.02216)
 - [arXiv 2023.12] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/pdf/2312.02783)
 - [arXiv 2023.11] A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper]](https://arxiv.org/pdf/2311.12399)
 - [arXiv 2023.10] Towards Graph Foundation Models: A Survey and Beyond [[paper]](https://arxiv.org/pdf/2310.11829)
